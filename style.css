@@ -1,0 +1,39 @@
+div{
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.section{
+    top: 10px;
+    background-color: #000000;
+
+
+}
+
+.relative{
+    position: relative;
+    top: 10px;
+    left: 10px;
+    background-color: rgb(203, 6, 243);
+}
+
+.absolut{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: #8a2be2;
+}
+
+.fixed{
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background-color: #8a2be2;
+}
+
+.sticky{
+    top: 0px;
+    position: sticky;
+    background-color: #54178e;
+}
